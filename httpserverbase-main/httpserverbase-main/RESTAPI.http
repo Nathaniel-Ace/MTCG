@@ -1,0 +1,2 @@
+GET http://localhost:10001/users
+accept: application/json
